@@ -35,7 +35,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
     ```
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate`
     ```
     </details>
     <details>
