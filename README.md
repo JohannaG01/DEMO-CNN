@@ -12,7 +12,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10.10
 - TensorFlow 2.x
 - NumPy
 - Matplotlib
